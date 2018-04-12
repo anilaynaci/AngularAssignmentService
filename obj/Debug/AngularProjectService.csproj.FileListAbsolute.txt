@@ -1,0 +1,12 @@
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\AngularProjectService.dll.config
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\AngularProjectService.dll
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\AngularProjectService.pdb
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\EntityFramework.dll
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\EntityFramework.SqlServer.dll
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\EntityFramework.xml
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\bin\EntityFramework.SqlServer.xml
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\obj\Debug\AngularProjectService.csproj.CoreCompileInputs.cache
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\obj\Debug\AngularProjectService.csproj.CopyComplete
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\obj\Debug\AngularProjectService.dll
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\obj\Debug\AngularProjectService.pdb
+C:\Users\anila\Documents\Visual Studio 2017\Projects\AngularProjectService\AngularProjectService\obj\Debug\AngularProjectService.csprojResolveAssemblyReference.cache
